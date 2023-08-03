@@ -7,4 +7,4 @@ Git-GitHub Notları
 - git diff ile working space deki değişiklikleri görebiliriz
 - git show hashcode ilede commit store daki  değişiklikleri görürüz.
 - git remote add origin url diyerek bir adres tanımlamış oluruz.
-- git push -u master ilede dosyalarımızı push ederiz.
+- git push -u origin master ilede dosyalarımızı push ederiz.
