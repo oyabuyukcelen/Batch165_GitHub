@@ -8,3 +8,4 @@ Git-GitHub Notları
 - git show hashcode ilede commit store daki  değişiklikleri görürüz.
 - git remote add origin url diyerek bir adres tanımlamış oluruz.
 - git push -u origin master ilede dosyalarımızı push ederiz.
+- git pull diyerek remote repository nin son halini alırız.
