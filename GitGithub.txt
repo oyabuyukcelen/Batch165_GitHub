@@ -2,3 +2,4 @@ git github notları
 -git init ile klasörümüzde Git i başlatırız
 - git add . komutu ile yaptığımız değişiklikleri
  working space den staging area ya taşırız
+git commit -m "V2"
