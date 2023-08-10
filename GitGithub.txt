@@ -9,3 +9,5 @@ Git-GitHub Notları
 - git remote add origin url diyerek bir adres tanımlamış oluruz.
 - git push -u origin master ilede dosyalarımızı push ederiz.
 - git pull diyerek remote repository nin son halini alırız.
+
+- git brach ile branc leri listeleriz.
