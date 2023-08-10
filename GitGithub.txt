@@ -13,4 +13,5 @@ Git-GitHub Notları
 - git brach ile branc leri listeleriz.
 - git branch --all ile remote deki brancleri de listeleriz.
 - git branch name diyerek yeni bir branch oluştururuz
+- git merge anotherBranch yazarsak brancleri birleştirmiş oluruz.
 
